@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Angel39706
-- 👀 I’m interested in Improving Sofware Skills
-- 🌱 I’m currently majoring in Computer Engineering
+- 👋 Hi, I’m Angel Martinez
+- 👀 I'm someone who loves getting involved in technology advancement
+- 🌱 Major: Computer Engineering Graduation Date: Spring 2023
 
 <!---
 Angel39706/Angel39706 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
