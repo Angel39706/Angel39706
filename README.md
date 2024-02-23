@@ -16,7 +16,6 @@
 - **Frameworks:** Flask, Express.js
 - **Database Systems:**  Microsoft SQL Server, MongoDB
 - **RESTful API Development:** Skilled in building scalable APIs to facilitate communication between client applications and servers.
-- **Authentication & Authorization:** Knowledgeable about implementing secure authentication and authorization mechanisms for user data protection.
 
 ## 🚀 Featured Frameworks & Libraries
 
@@ -33,8 +32,8 @@
 
 - **Flask:** Lightweight and flexible web framework for building APIs.
 - **Express.js:** Fast, unopinionated, and minimalist web framework for Node.js.
+- **Microsoft SQL Server (MSSQL):** Robust relational database system developed by Microsoft, commonly used in enterprise environments.
 - **MongoDB Atlas:** Cloud-hosted MongoDB service for data storage.
-- **PostgreSQL:** Powerful, open-source relational database system.
 
   ## 🌐 Mockup Showcases
   
