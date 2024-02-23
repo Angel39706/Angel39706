@@ -1,16 +1,26 @@
 # About ME
 
- I'm a recent graduate from California State University, San Bernardino, excitedly embarking on my journey into the world of iOS development. With a strong foundation in Swift and a passion for crafting elegant user experiences, I'm eager to contribute my skills and creativity to my first role in the iOS development field.
-
+ I'm a recent graduate from California State University, San Bernardino, with a passion for both iOS development and backend engineering. Eagerly embarking on my journey inot the world of software development, I bring a strong foundation in Swift and a knack for crafting elegant user experiences to the table. Additionally, I have experience in designing and implementing backend solutions, making me a versatile developer capable of contributing to various aspects of software projects.
+ 
 ## 🛠️ Technologies & Tools
 
+### iOS Development
 - **Primary Language:** Swift
 - **Development Environment:** Xcode
 - **User Interface Frameworks:** SwiftUI, UIKit.
 - **Restful APIs:** Proficient in designing and implementing RESTful APIs to facilitate seamless data communication between applications and servers.
 - **Database Integration:** Experienced in integrating and utilizing databases, such as Firebase, to enhance app functionalities, enabling efficient data storage and retrieval. Open to exploring various database solutions for future projects.
 
+### Backend Developmemt
+- **Primary Languages:** Python, Node.js
+- **Frameworks:** Flask, Express.js
+- **Database Systems:**  Microsoft SQL Server, MongoDB
+- **RESTful API Development:** Skilled in building scalable APIs to facilitate communication between client applications and servers.
+- **Authentication & Authorization:** Knowledgeable about implementing secure authentication and authorization mechanisms for user data protection.
+
 ## 🚀 Featured Frameworks & Libraries
+
+### iOS Development
 
 - **UserNotifications:** Crafting engaging and timely user alerts.
 - **Core Data:** Building robust data-driven apps with persistence.
@@ -19,8 +29,15 @@
 - **AV Foundation:** Adding audio and video capabilities to apps.
 - **Core Location:** Harnessing precise location data for your apps.
 
-## 🌐 Mockup Showcases
+### Backend Development
 
+- **Flask:** Lightweight and flexible web framework for building APIs.
+- **Express.js:** Fast, unopinionated, and minimalist web framework for Node.js.
+- **MongoDB Atlas:** Cloud-hosted MongoDB service for data storage.
+- **PostgreSQL:** Powerful, open-source relational database system.
+
+  ## 🌐 Mockup Showcases
+  
 <p align="center">
   <img src="https://github.com/lxAnxietyxl/limit/blob/main/LimitMock/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%200.png" width = "180" alt="Limit Mockup"> <img src="https://github.com/lxAnxietyxl/limit/blob/main/LimitMock/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%201.png" width = "180" alt="Limit Mockup"> <img src="https://github.com/lxAnxietyxl/limit/blob/main/LimitMock/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%202.png" width = "180" alt="Limit Mockup"> <img src="https://github.com/lxAnxietyxl/limit/blob/main/LimitMock/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%203.png" width = "180" alt="Limit Mockup">
   <br>
