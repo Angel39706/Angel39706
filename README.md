@@ -13,8 +13,8 @@
 
 ### Backend Developmemt
 - **Primary Languages:** Python, Node.js
-- **Frameworks:** Flask, Express.js
-- **Database Systems:**  Microsoft SQL Server, MongoDB
+- **Frameworks:** Flask, FastAPI, Express.js
+- **Database Systems:**  Microsoft SQL Server, PostreSQL, SQLite, MongoDB
 - **RESTful API Development:** Skilled in building scalable APIs to facilitate communication between client applications and servers.
 
 ## 🚀 Featured Frameworks & Libraries
